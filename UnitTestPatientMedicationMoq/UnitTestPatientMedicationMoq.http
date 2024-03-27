@@ -1,0 +1,6 @@
+@UnitTestPatientMedicationMoq_HostAddress = http://localhost:5130
+
+GET {{UnitTestPatientMedicationMoq_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

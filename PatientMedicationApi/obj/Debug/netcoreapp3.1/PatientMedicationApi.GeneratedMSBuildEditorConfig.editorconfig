@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PatientMedicationApi
+build_property.ProjectDir = C:\workspace\PatientMedicationApi\PatientMedicationApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

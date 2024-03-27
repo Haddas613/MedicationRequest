@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PatientMedicationApi</name>
+    </assembly>
+    <members>
+        <member name="M:PatientMedicationApi.Controllers.MedicationRequestsController.PostMedicationRequest(PatientMedicationApi.Models.MedicationRequest)">
+            <summary>
+            Create Medication Prescription
+            </summary>
+            <param name="medicationRequest"> medication prescription information</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
